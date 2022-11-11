@@ -1,5 +1,4 @@
-# mordecAI
-A machine learning library. 
+#A machine learning library. 
 Currently supports deep neural networks and convolutional neural networks.
 TODO: 
 - Long-short-term-memory recurrent neural network support.
